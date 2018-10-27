@@ -120,12 +120,3 @@ Want to report a bug, request a feature, contribute or translate Peatio?
 ### License
 
 Peatio is released under the terms of the MIT license. See [http://peatio.mit-license.org](http://peatio.mit-license.org) for more information.
-
-
-### DONATE
-
-**Bitcoin** address [36uSLDtaiBaRrQxgRdC3qdtevLhANBHfd6](https://blockchain.info/address/36uSLDtaiBaRrQxgRdC3qdtevLhANBHfd6)
-**Paypal** [https://paypal.me/algobasket](https://paypal.me/algobasket)
-
-# SKYPE : algobasket
-# EMAIL : algobasket@gmail.com
